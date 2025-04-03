@@ -1,4 +1,4 @@
-# Regressao_Linear
+# Previsão do valor de casas
 
 ## O dataset analisado é composto por informações de área e preço de casas dos EUA.
 
